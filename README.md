@@ -1,2 +1,6 @@
 # hello-world
-Just the first repository
+
+hi humans!
+
+Mirageowen here, I like iOS, and doing a project about bycycling.
+
