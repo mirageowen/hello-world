@@ -113,7 +113,7 @@ why??
 
 注意：插入图片操作，预览时不显示图片，commit chages后显示<br>
 
-![陈丹青](http://y2.ifengimg.com/a/2016_04/cec88c7b457d486.jpg)
-
+![陈丹青](http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg)<br>
+注意：图像过大会影响加载速度
 
 
