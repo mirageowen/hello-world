@@ -63,6 +63,10 @@ why??
 格式：\[显示的文本\]\(url\)<br>
 [打开我的gitHub](https://github.com/mirageowen/)
 
+### 文本超链接＋鼠标悬停
+即：对某些文本添加超链接；悬停<br>
+格式：\[显示的文本\]\(url "悬停显示"\);(注意：双引号为英文)<br>
+[打开我的gitHub](https://github.com/mirageowen/ "悬停显示")
 
 
 
