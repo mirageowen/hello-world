@@ -124,7 +124,7 @@ why??
 即：点击显示的图片跳到相应的网页<br>
 格式：<br>
 [![陈丹青]](http://book.ifeng.com/a/20160120/18595_0.shtml)  
-[baidu]:http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg
+[陈丹青]:http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg
 
 
 
