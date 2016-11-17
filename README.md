@@ -107,13 +107,28 @@ why??
 
 ## 插入图片
 ### 插入图片来自网络
-即：使用url来获取q图像<br>
+即：使用网络url来获取图像<br>
 格式：叹号! + 方括号[描述] + 括号(url) 其中括号里是图片的URL<br>
 ![新浪体育logo](http://n.sinaimg.cn/sports/index1508/logo.png)<br>
-
 注意：插入图片操作，预览时不显示图片，commit chages后显示<br>
 
 ![陈丹青](http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg)<br>
 注意：图像过大会影响加载速度
+
+### 插入图片来自GitHub仓库
+即：使用仓库中的url来获取图像<br>
+格式：叹号! + 方括号[描述] + 括号(url) 其中括号里是图片的URL；url＝https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片<br>
+暂时没有示例
+
+### 图片添加超链接
+即：点击显示的图片跳到相应的网页<br>
+格式：<br>
+[![陈丹青]](http://book.ifeng.com/a/20160120/18595_0.shtml)  
+[baidu]:http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg
+
+
+
+
+
 
 
