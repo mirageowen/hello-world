@@ -110,8 +110,10 @@ why??
 即：使用url来获取q图像<br>
 格式：叹号! + 方括号[描述] + 括号(url) 其中括号里是图片的URL<br>
 ![新浪体育logo](http://n.sinaimg.cn/sports/index1508/logo.png)<br>
-注意：插入图片操作，预览时不显示图片，commit chages后显示
-![陈丹青](http://y2.ifengimg.com/a/2016_04/cec88c7b457d486.jpg)<br>
+
+注意：插入图片操作，预览时不显示图片，commit chages后显示<br>
+
+![陈丹青](http://y2.ifengimg.com/a/2016_04/cec88c7b457d486.jpg)
 
 
 
