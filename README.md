@@ -129,8 +129,16 @@ why??
 [陈丹青]:http://y3.ifengimg.com/a/2016_05/9c3a1b03bd040bf.jpg
 
 
-
-
+## 插入代码片段
+即：插入代码片段<br>
+格式：<br>
+\`\`\`<br>
+代码片段<br>
+\`\`\`<br>
+``` OC
+static NSString *kNameCellID = @"nameCell";
+static NSString *kRunCellID = @"runCell";
+```
 
 
 
