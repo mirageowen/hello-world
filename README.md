@@ -131,14 +131,29 @@ why??
 
 ## 插入代码片段
 即：插入代码片段<br>
-格式：<br>
+格式：(语言名称好像不区分大小写)<br>
 \`\`\`语言<br>
 代码片段<br>
 \`\`\`<br>
+
 ```objective-c
+// objective-c
 static NSString *kNameCellID = @"nameCell";
 static NSString *kRunCellID = @"runCell";
 ```
 
+```swift
+// swift
+override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        setupUI()
+        /// 获取推荐标题内容
+        YMNetworkTool.shareNetworkTool.loadRecommendTopic { [weak self] (topics) in
+            self!.recommendTopics = topics
+            
+        }
+    }
+```
 
 
