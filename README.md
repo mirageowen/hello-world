@@ -135,7 +135,7 @@ why??
 \`\`\`<br>
 代码片段<br>
 \`\`\`<br>
-``` OC
+```objective-c
 static NSString *kNameCellID = @"nameCell";
 static NSString *kRunCellID = @"runCell";
 ```
